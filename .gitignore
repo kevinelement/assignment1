@@ -12,6 +12,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
-.DS_Store
-Content/.DS_Store
-Content/.DS_Store
+*.DS_Store
